@@ -88,17 +88,4 @@ See the LICENSE file for details.
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-Davide Luca Nicoletti — ASHI-CORE Framework
-DOI: https://doi.org/10.5281/zenodo.19103017
-
----
-
-## Contact
-
-For collaboration, licensing, or technical evaluation:
-
-Davide Luca Nicoletti
+*Davide Luca Nicoletti*
